@@ -1,4 +1,4 @@
-package com.jiibngkun.lucene.thread;
+package com.jibingkun.lucene.thread;
 
 import java.io.BufferedReader;
 import java.io.IOException;
